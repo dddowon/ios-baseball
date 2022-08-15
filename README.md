@@ -3,6 +3,8 @@
 
 # STEP 1
 
+<img width="654" alt="스크린샷 2022-08-16 오전 1 18 18" src="https://user-images.githubusercontent.com/87158656/184674708-44b839bc-55f9-4a6b-9594-277d1a44ed54.png">
+
 **Learn and proceed**
 
 컬렉션 타입, 함수 네이밍, 난수 생성 등을 학습하며 진행했다.
